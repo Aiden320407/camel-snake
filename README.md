@@ -9,7 +9,7 @@ A python program that prompts the user for a piece of text in CamelCase then con
 
 ## How to Run
 1. Clone the repo:https://super-fishstick-q76vx9gwg6gxc9r9.github.dev/
-2. Navigate to folder: "cd camel.py"
+2. Navigate to folder: "cd camel"
 3. Run the program: "python camel.py"
 
 ## Author
